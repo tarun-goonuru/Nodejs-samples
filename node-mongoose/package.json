@@ -1,0 +1,16 @@
+{
+  "name": "nodemongoose",
+  "version": "1.0.0",
+  "description": "examples for mongoose",
+  "main": "index.js",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "mongoose": "^4.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mongoose",
+  "license": "ISC"
+}
